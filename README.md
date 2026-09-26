@@ -1,6 +1,5 @@
 # 3×3 Multi-Core Heatmap Processor
 
-경희대학교 전자공학과 **디지털회로설계및언어** 프로젝트 3 (5조).
 9개의 독립 CPU 코어를 3×3 격자로 배치하고, 코어마다 상하좌우 이웃과 heat 값을 주고받아 평균을 반복 계산하는 시스템입니다. 열 확산을 FDM(Finite Difference Method)으로 단순화한 연산을 SystemVerilog RTL로 구현했고, Verilator와 C++로 만든 UVM 스타일 테스트벤치로 검증했습니다.
 
 - 상세 보고서: [`docs/report.md`](docs/report.md) (동작 원리, 합성/전력/딜레이, 검증, 파형)
