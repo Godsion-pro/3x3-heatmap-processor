@@ -113,6 +113,8 @@ rtl/core9.sv:93  TOP.top.core9  hits=6
 
 ## 합성 결과 (Oasys / Nitro)
 
+<img src="docs/img/nitro_layout_3x3.png" width="360" alt="Nitro layout">
+
 | 항목 | 값 |
 |---|---|
 | 면적 | 511,915 (10,120 cells); 코어당 약 52–54k 중 register file이 66–69% |

@@ -188,6 +188,10 @@ top 레벨에서 core2/4/6/8은 개별 instance로 남았고, 나머지는 그�
 
 3×3 격자로 배치된 9개 코어 블록과 `heat_set` 블록(우하단)입니다.
 
+![nitro layout 3x3](img/nitro_layout_3x3.png)
+
+별도의 `heat_set` 블록 없이 9개 블록이 정사각형 영역을 3×3으로 채운 배치입니다. 블록 사이 채널로 인접 코어 간 배선(heat 값 전달)이 지나갑니다.
+
 ### 4.5 `top_nitro.v` gate-level 시뮬레이션 딜레이
 
 **코어 내부: clk rising edge → PC 갱신 = 1.296 ns**
