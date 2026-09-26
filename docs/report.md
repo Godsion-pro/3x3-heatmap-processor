@@ -1,6 +1,6 @@
-# 3×3 Multi-Core Heatmap Processor: 프로젝트 보고서
+# 3×3 Multi-Core Heatmap Processor
 
-디지털회로설계및언어 프로젝트 3 (5조) 보고서를 정리한 문서입니다. 코드는 [`rtl/`](../rtl)과 [`tb/`](../tb)에 있습니다.
+프로젝트를 정리한 문서입니다. 코드는 [`rtl/`](../rtl)과 [`tb/`](../tb)에 있습니다.
 
 ## 목차
 
