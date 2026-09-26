@@ -117,7 +117,7 @@ rtl/core9.sv:93  TOP.top.core9  hits=6
 | 항목 | 값 |
 |---|---|
 | 면적 | 511,915 (10,120 cells); 코어당 약 52–54k 중 register file이 66–69% |
-| 전력 | 약 71.0 mW (Nitro instance 합계; 분석 조건은 보고서에 없음) |
+| 전력 | 약 71.0 mW (Nitro instance 합계) |
 | clk edge → PC 갱신 (gate-level sim) | 1.296 ns |
 | TB clk → 코어 clk (clock insertion delay) | 0.729 ns |
 
